@@ -1,4 +1,6 @@
 # Notes
+## Link
+https://leetcode.com/problems/two-sum/description/
 
 ## Approach
 1. Divide numbers into two groups: checked ones (`seen`) and the value we need (`need`) to reach the target.
