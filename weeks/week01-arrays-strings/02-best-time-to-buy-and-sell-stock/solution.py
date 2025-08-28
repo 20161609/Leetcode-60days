@@ -1,7 +1,6 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         n = len(prices)
-        dp = [0] * n
         answer, max_price = 0, 0
         for i in range(n):
             i = n - i - 1
