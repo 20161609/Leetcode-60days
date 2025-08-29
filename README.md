@@ -34,11 +34,7 @@ leetcode-60days-roadmap/
 ## 📅 Weekly Plan
 | Week | Topic                      | Problems | Status |
 |------|---------------------------|----------|--------|
-<<<<<<< HEAD
-| 01   | Arrays & Strings         | 7        | 🔄 In Progress(2/7) |
-=======
 | 01   | Arrays & Strings         | 7        | 🔄 In Progress(3/7) |
->>>>>>> 19678bc (feat: add week03 solutions)
 | 02   | Hash & Dictionary       | 7        | ⏳ Pending |
 | 03   | Stack & Queue          | 7        | ⏳ Pending |
 | 04   | Two Pointers / Sliding | 7        | ⏳ Pending |
