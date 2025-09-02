@@ -1,15 +1,21 @@
 # Notes
 
+## Link
+https://leetcode.com/problems/contains-duplicate/description/
+
 ## Approach
-(Describe the main idea and data structures used.)
+- Compare length `nums` and set `nums`.
 
 ## Code
-Final implementation is in `solution.py`.
+```
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+        return len(nums) != len(set(nums))
+```
 
 ## Complexity Analysis
-- Time: O(...)
-- Space: O(...)
+- Time: O(n)
+- Space: O(n)
 
 ## Review
-- Key takeaways from solving this problem.
-- Mistakes or alternative approaches considered.
+- Set method could remove all duplications in the container. So if there's duplication of elements, its length would be less.
