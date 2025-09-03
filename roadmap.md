@@ -1,4 +1,5 @@
 # 60-Day Problem Roadmap
+
 | # | Problem | Difficulty | Link |
 |---|---------|------------|------|
 | 1 | Two Sum | Easy | [Link](https://leetcode.com/problems/two-sum/) |
@@ -9,7 +10,7 @@
 | 6 | Merge Sorted Array | Easy | [Link](https://leetcode.com/problems/merge-sorted-array/) |
 | 7 | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 8 | Contains Duplicate | Easy | [Link](https://leetcode.com/problems/contains-duplicate/) |
-| 9 | Single Number | Easy | [Link](https://l✅eetcode.com/problems/single-number/) |
+| 9 | Single Number | Easy | [Link](https://leetcode.com/problems/single-number/) |
 | 10 | Intersection of Two Arrays | Easy | [Link](https://leetcode.com/problems/intersection-of-two-arrays/) |
 | 11 | Ransom Note | Easy | [Link](https://leetcode.com/problems/ransom-note/) |
 | 12 | First Unique Character in a String | Easy | [Link](https://leetcode.com/problems/first-unique-character-in-a-string/) |
