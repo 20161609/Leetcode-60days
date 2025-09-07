@@ -1,15 +1,35 @@
 # Notes
 
+## Link
+https://leetcode.com/problems/min-stack/
+
 ## Approach
-(Describe the main idea and data structures used.)
+- Just use a deque; no detailed explanation is needed.
 
 ## Code
-Final implementation is in `solution.py`.
+```
+from collections import deque
 
+class MinStack:
+
+    def __init__(self):
+        self.stack = deque()
+
+    def push(self, val: int) -> None:
+        self.stack.append(val)
+
+    def pop(self) -> None:
+        self.stack.pop()
+
+    def top(self) -> int:
+        return self.stack[-1]
+
+    def getMin(self) -> int:
+        return min(self.stack)
+```
 ## Complexity Analysis
-- Time: O(...)
-- Space: O(...)
+- Time: All functions have time complexity O(1), except for `getMin()`, which has O(n).
+- Space: O(n)
 
 ## Review
-- Key takeaways from solving this problem.
-- Mistakes or alternative approaches considered.
+- None
