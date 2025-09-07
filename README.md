@@ -36,7 +36,7 @@ leetcode-60days-roadmap/
 |------|---------------------------|----------|--------|
 | 01   | Arrays & Strings         | 7        | ✅ Complete(7/7) |
 | 02   | Hash & Dictionary       | 7        | ✅ Complete(7/7) |
-| 03   | Stack & Queue          | 7        | 🔄 In Progress(2/7) |
+| 03   | Stack & Queue          | 7        | 🔄 In Progress(3/7) |
 | 04   | Two Pointers / Sliding | 7        | ⏳ Pending |
 | 05   | Binary Search         | 7        | ⏳ Pending |
 | 06   | DFS / BFS (Graph)    | 7        | ⏳ Pending |
@@ -58,5 +58,5 @@ leetcode-60days-roadmap/
 
 ## 🏁 Progress Tracking
 - **Start Date**: 2025-08-27
-- **Current Progress**: 16 / 60 problems solved ✅
+- **Current Progress**: 17 / 60 problems solved ✅
 - **Expected Completion**: ~2 months
