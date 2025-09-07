@@ -42,7 +42,7 @@ leetcode-60days-roadmap/
 | 06   | DFS / BFS (Graph)    | 7        | ⏳ Pending |
 | 07   | Dynamic Programming  | 7        | ⏳ Pending |
 | 08   | Mixed + Mock Prep    | 11       | ⏳ Pending |
-| **Total** | — | **60** | **16 / 60 ✅** |
+| **Total** | — | **60** | **17 / 60 ✅** |
 
 ---
 
