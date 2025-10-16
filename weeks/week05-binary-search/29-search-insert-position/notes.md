@@ -1,5 +1,8 @@
 # Notes
 
+## Link
+https://leetcode.com/problems/search-insert-position/description/
+
 ## Approach
 (Describe the main idea and data structures used.)
 
