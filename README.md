@@ -42,7 +42,7 @@ leetcode-60days-roadmap/
 | 06   | DFS / BFS (Graph)    | 7        | 🔄 In Progress(1/7) |
 | 07   | Dynamic Programming  | 7        | ⏳ Pending |
 | 08   | Mixed + Mock Prep    | 11       | ⏳ Pending |
-| **Total** | — | **60** | **43 / 60 ✅** |
+| **Total** | — | **60** | **44 / 60 ✅** |
 
 ---
 
@@ -58,5 +58,5 @@ leetcode-60days-roadmap/
 
 ## 🏁 Progress Tracking
 - **Start Date**: 2025-08-27
-- **Current Progress**: 43 / 60 problems solved ✅
+- **Current Progress**: 44 / 60 problems solved ✅
 - **Expected Completion**: ~2 months
