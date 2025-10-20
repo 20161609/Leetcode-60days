@@ -53,7 +53,7 @@
 | 49 | Edit Distance | Hard | [Link](https://leetcode.com/problems/edit-distance/) |
 | 50 | K Closest Points to Origin | Medium | [Link](https://leetcode.com/problems/k-closest-points-to-origin/) |
 | 51 | Subarray Sum Equals K | Medium | [Link](https://leetcode.com/problems/subarray-sum-equals-k/) |
-| 52 | Meeting Rooms II | Medium | [Link](https://leetcode.com/problems/meeting-rooms-ii/) |
+| 52 | Non-overlapping Intervals | Medium | [Link](https://leetcode.com/problems/non-overlapping-intervals/description/) |
 | 53 | Task Scheduler | Medium | [Link](https://leetcode.com/problems/task-scheduler/) |
 | 54 | Rotate Image | Medium | [Link](https://leetcode.com/problems/rotate-image/) |
 | 55 | Word Break | Medium | [Link](https://leetcode.com/problems/word-break/) |
