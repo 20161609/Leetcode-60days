@@ -41,8 +41,8 @@ leetcode-60days-roadmap/
 | 05   | Binary Search         | 7        | ✅ Complete(7/7) |
 | 06   | DFS / BFS (Graph)    | 7        | ✅ Complete(7/7) |
 | 07   | Dynamic Programming  | 7        | ✅ Complete(7/7) |
-| 08   | Mixed + Mock Prep    | 11       | 🔄 In Progress(2/11) |
-| **Total** | — | **60** | **51 / 60 ✅** |
+| 08   | Mixed + Mock Prep    | 11       | 🔄 In Progress(3/11) |
+| **Total** | — | **60** | **52 / 60 ✅** |
 
 ---
 
@@ -58,5 +58,5 @@ leetcode-60days-roadmap/
 
 ## 🏁 Progress Tracking
 - **Start Date**: 2025-08-27
-- **Current Progress**: 51 / 60 problems solved ✅
+- **Current Progress**: 52 / 60 problems solved ✅
 - **Expected Completion**: ~2 months
