@@ -17,7 +17,6 @@ class Solution:
                 if s[left:right+1:] in wordDict:
                     if right+1 == n:
                         return True
-                    stack.append(right+1)
-                    visited.add(right+1)
+                    stack.append(right+1), visited.add(right+1)
 
         return False
