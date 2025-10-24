@@ -1,7 +1,7 @@
 # Notes
 
 ## Link
-https://leetcode.com/problems/minimum-window-subsequence/
+https://leetcode.com/problems/distinct-subsequences/
 
 ## Approach
 (Describe the main idea and data structures used.)
