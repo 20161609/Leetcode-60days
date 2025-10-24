@@ -1,7 +1,7 @@
 # 60-Day Problem Roadmap
 
 | # | Problem | Difficulty | Link |
-|---|---------|------------|------|
+|---|----------|-------------|------|
 | 1 | Two Sum | Easy | [Link](https://leetcode.com/problems/two-sum/) |
 | 2 | Best Time to Buy and Sell Stock | Easy | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 3 | Move Zeroes | Easy | [Link](https://leetcode.com/problems/move-zeroes/) |
@@ -59,6 +59,6 @@
 | 55 | Word Break | Medium | [Link](https://leetcode.com/problems/word-break/) |
 | 56 | LRU Cache | Medium | [Link](https://leetcode.com/problems/lru-cache/) |
 | 57 | Merge k Sorted Lists | Hard | [Link](https://leetcode.com/problems/merge-k-sorted-lists/) |
-| 58 | Minimum Window Subsequence | Hard | [Link](https://leetcode.com/problems/minimum-window-subsequence/) |
+| 58 | Distinct Subsequences | Hard | [Link](https://leetcode.com/problems/distinct-subsequences/) |
 | 59 | Sliding Window Maximum | Hard | [Link](https://leetcode.com/problems/sliding-window-maximum/) |
 | 60 | N-Queens | Hard | [Link](https://leetcode.com/problems/n-queens/) |
