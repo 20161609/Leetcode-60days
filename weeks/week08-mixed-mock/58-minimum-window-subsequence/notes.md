@@ -1,5 +1,8 @@
 # Notes
 
+## Link
+https://leetcode.com/problems/minimum-window-subsequence/
+
 ## Approach
 (Describe the main idea and data structures used.)
 
