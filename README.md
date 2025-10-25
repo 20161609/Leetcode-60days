@@ -58,5 +58,5 @@ leetcode-60days-roadmap/
 
 ## 🏁 Progress Tracking
 - **Start Date**: 2025-08-27
+- **End Date**: 2025-10-25
 - **Current Progress**: 60 / 60 problems solved ✅
-- **Expected Completion**: ~2 months
