@@ -1,4 +1,4 @@
-# LeetCode 60 Days Roadmap
+# LeetCode 60 Days Roadmap(COMPLETE)
 
 This repository documents my **60-day LeetCode challenge** — solving one problem per day for two months.  
 The goal is to improve problem-solving skills, strengthen algorithmic thinking, and prepare for **developer positions in Ottawa**.
